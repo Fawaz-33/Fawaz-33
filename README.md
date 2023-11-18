@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fawaz-33
 - 👀 I’m interested in Computational fluid dynamics 
-- 🌱 I’m currently learning coding for CFD
+- 🌱 I’m currently learning coding for Turbulence Modeling
 - 💞️ I’m looking to collaborate on advanced CFD research
 - 📫 How to reach me - fawazbukht@iut-dhaka.edu
 
